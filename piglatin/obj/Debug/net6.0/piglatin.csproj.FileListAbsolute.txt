@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\piglatin\piglatin\obj\Debug\net6.0\piglatin.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\piglatin\piglatin\obj\Debug\net6.0\piglatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\piglatin\piglatin\obj\Debug\net6.0\piglatin.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\piglatin\piglatin\obj\Debug\net6.0\piglatin.AssemblyInfo.cs
+C:\Users\Liam\source\repos\piglatin\piglatin\obj\Debug\net6.0\piglatin.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\piglatin\piglatin\bin\Debug\net6.0\piglatin.exe
+C:\Users\Liam\source\repos\piglatin\piglatin\bin\Debug\net6.0\piglatin.deps.json
+C:\Users\Liam\source\repos\piglatin\piglatin\bin\Debug\net6.0\piglatin.runtimeconfig.json
+C:\Users\Liam\source\repos\piglatin\piglatin\bin\Debug\net6.0\piglatin.dll
+C:\Users\Liam\source\repos\piglatin\piglatin\bin\Debug\net6.0\piglatin.pdb
+C:\Users\Liam\source\repos\piglatin\piglatin\obj\Debug\net6.0\piglatin.dll
+C:\Users\Liam\source\repos\piglatin\piglatin\obj\Debug\net6.0\refint\piglatin.dll
+C:\Users\Liam\source\repos\piglatin\piglatin\obj\Debug\net6.0\piglatin.pdb
+C:\Users\Liam\source\repos\piglatin\piglatin\obj\Debug\net6.0\piglatin.genruntimeconfig.cache
+C:\Users\Liam\source\repos\piglatin\piglatin\obj\Debug\net6.0\ref\piglatin.dll
